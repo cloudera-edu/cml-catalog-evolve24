@@ -1,5 +1,5 @@
-name: Cloudera Education
-        
+name: Cloudera
+
 entries:
   - title: LLM Chatbot Augmented with Enterprise Data
     label: llm-chatbot
@@ -14,6 +14,7 @@ entries:
         demonstrates how context from local documents can be used with pre-trained
         LLM models to perform context retrieval and chat response
         generation with factual responses.        
+
     image_path: >-
       https://raw.githubusercontent.com/bshimel-cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data/refs/heads/main/images/catalog-screenshot.png
     tags:
@@ -27,5 +28,5 @@ entries:
       - Transformers
       - NLP
       - GPU
-    git_url: 'https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data'
+    git_url: 'https://github.com/bshimel-cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data'
     is_prototype: true
