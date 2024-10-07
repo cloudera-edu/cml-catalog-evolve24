@@ -50,5 +50,3 @@ entries:
       - Summarization
     git_url: 'https://github.com/cloudera/CML_AMP_Image-Analysis-with-Anthropic-Claude.git'
     is_prototype: true
-    is_community: true
-    is_new: true
