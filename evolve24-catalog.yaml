@@ -30,7 +30,7 @@ entries:
       - GPU
     git_url: 'https://github.com/bshimel-cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data'
     is_prototype: true
-- title: Image Analysis with Anthropic's Claude LLM
+  - title: Image Analysis with Anthropic's Claude LLM
     label: anthropic-claude
     short_description: |
         This AMP enables transcription and information extraction from images using Anthropic Claude models, covering use cases like text extraction, document QA, and converting unstructured content into structured formats like JSON.
